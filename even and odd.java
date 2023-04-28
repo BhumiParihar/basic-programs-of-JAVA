@@ -1,4 +1,4 @@
-//Program to print even and odd numbers upto n limits.
+//Program to print even and odd numbers upto n limit.
 import java.util.*;
 public class Main
 {

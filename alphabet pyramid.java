@@ -7,10 +7,10 @@ public class Main
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the number of rows needed ");
 		int rows = sc.nextInt();
-		for (int i = 0; i <= rows; i++)
+		for (int i = 0; i <= rows-1; i++)
 		{
 			int alphabet = 65;
-			for (int j = rows; j > i; j--)
+			for (int j = rows-1; j > i; j--)
 			{
 				System.out.print(" ");
 			}

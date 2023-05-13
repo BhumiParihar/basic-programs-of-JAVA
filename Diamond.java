@@ -1,4 +1,4 @@
-
+//Program to draw a diamond of stars.
 
 public class Diamond
 {
